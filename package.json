@@ -24,7 +24,7 @@
     "docusaurus-theme-openapi-docs": "^4.2.0",
     "i": "^0.3.7",
     "npm": "^10.8.1",
-    "prism-react-renderer": "^2.3.0",
+    "prism-react-renderer": "^2.4.1",
     "react": "^18.0.0",
     "react-dom": "^18.0.0"
   },
