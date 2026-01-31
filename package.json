@@ -23,7 +23,7 @@
     "docusaurus-preset-openapi": "^0.7.5",
     "docusaurus-theme-openapi-docs": "^4.2.0",
     "i": "^0.3.7",
-    "npm": "^10.8.1",
+    "npm": "^11.6.1",
     "prism-react-renderer": "^2.3.0",
     "react": "^18.0.0",
     "react-dom": "^18.0.0"
